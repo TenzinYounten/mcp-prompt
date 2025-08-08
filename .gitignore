@@ -1,0 +1,15 @@
+celerybeat.pid
+
+# dotenv
+.env
+.env.*
+.envrc
+
+# virtualenv
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
